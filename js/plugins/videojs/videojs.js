@@ -12334,7 +12334,7 @@ var Player = (function (_Component) {
    *     // get
    *     var currentPoster = myPlayer.poster();
    *     // set
-   *     myPlayer.poster('http://example.com/myImage.jpg');
+   *     myPlayer.poster('http://example.com/myImage.webp');
    * ```
    *
    * @param  {String=} src Poster image source URL
